@@ -10,5 +10,6 @@ public class DemoOneNewCLass extends AppCompatActivity {
 
 
     public DemoOneNewCLass() {
+        awsfdcsadvz
     }
 }
