@@ -9,6 +9,6 @@ import android.support.v7.app.AppCompatActivity;
 public class DemoOneNewCLass extends AppCompatActivity {
 
 
-    public DemoOneNewCLass() {kjsgfgitsfvsdvsdvvds
+    public DemoOneNewCLass() {
     }
 }
